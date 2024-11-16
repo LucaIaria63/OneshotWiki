@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: OneshotWiki
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Qua si trovano tutte le oneshot giocate al laboratorio.
