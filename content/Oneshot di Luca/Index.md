@@ -13,3 +13,6 @@ title: Indice Oneshot di Luca
 - [[Oneshot di Luca/Oneshot Underwater|Oneshot Underwater]]
 - [[Oneshot di Luca/Oneshot Amuleto da Maroram|Oneshot Amuleto da Maroram]]
 - [[Oneshot di Luca/Oneshot Torneo Clandestino|Oneshot Torneo Clandestino]]
+- ==Oneshot c/acquisti==
+- ==Oneshot PM==
+- ==Oneshot Finale==
