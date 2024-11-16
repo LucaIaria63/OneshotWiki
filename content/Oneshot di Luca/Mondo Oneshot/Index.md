@@ -8,4 +8,4 @@ longform:
   ignoredFiles: []
 title: Indice Mondo Oneshot
 ---
-- [[OneshotWiki/Oneshot di Luca/Mondo Oneshot/Città/Index|Città]]
+- [[Oneshot di Luca/Mondo Oneshot/Città/Index|Città]]
