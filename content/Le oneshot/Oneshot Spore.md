@@ -1,5 +1,5 @@
 ---
-title: '"Oneshot Spore'
+title: Oneshot Spore
 draft: "false"
 tags:
 ---
