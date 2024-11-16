@@ -4,9 +4,7 @@ longform:
   title: Oneshot di Francesco
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - 
-  sceneTemplate: templates/Scena.md
+  scenes: []
   ignoredFiles: []
 title: Indice Oneshot di Francesco
 ---
