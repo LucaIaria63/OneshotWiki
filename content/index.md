@@ -7,5 +7,5 @@ title: Home
 ## [[Oneshot di Luca/Index|Oneshot di Luca:]]
 - [[Oneshot di Luca/Oneshot Spore/Index|Oneshot Spore]]
 - [[Oneshot di Luca/Oneshot Underwater/Index|Oneshot Underwater]]
-- [[Oneshot di Luca/Oneshot Amuleto da Maroram/Index|Oneshot Amuleto da Mororam]]
+- [[Oneshot di Luca/Oneshot Amuleto da Maroram/Index|Oneshot Amuleto da Maroram]]
 - [[Oneshot di Luca/Oneshot Torneo Clandestino/Index|Oneshot Torneo Clandestino]]

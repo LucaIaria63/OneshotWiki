@@ -1,12 +1,11 @@
 ---
 longform:
   format: scenes
-  title: Oneshot di Luca
+  title: Mondo Oneshot
   workflow: Default Workflow
   sceneFolder: /
   scenes: []
   ignoredFiles: []
-title: Indice Oneshot di Luca
+title: Indice Mondo Oneshot
 ---
-- [[Oneshot di Luca/Mondo Oneshot/Index|Mondo Oneshot]]
 - 

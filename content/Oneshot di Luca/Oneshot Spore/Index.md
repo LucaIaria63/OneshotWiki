@@ -5,8 +5,8 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Introduzione
+    - Storia (Work in progress)
   ignoredFiles: []
 title: Indice Oneshot Spore
 ---
-- [[Introduzione]]
+[[[[Storia (Work in progress)]]
