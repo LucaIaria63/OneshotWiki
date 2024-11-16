@@ -9,3 +9,4 @@ longform:
   ignoredFiles: []
 title: Indice Oneshot Spore
 ---
+- [[Introduzione]]
