@@ -8,4 +8,4 @@ longform:
   ignoredFiles: []
 title: Indice Mondo Oneshot
 ---
-- [[Oneshot di Luca/Mondo Oneshot/Città/Index|Indice Città]]
+- [[Città/Index]]
