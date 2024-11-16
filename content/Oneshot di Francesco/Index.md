@@ -8,3 +8,4 @@ longform:
   ignoredFiles: []
 title: Indice Oneshot di Francesco
 ---
+- [[Oneshot Steampunk]]
