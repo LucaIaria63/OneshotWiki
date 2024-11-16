@@ -9,4 +9,4 @@ longform:
   ignoredFiles: []
 title: Indice Oneshot Spore
 ---
-[[[[Storia (Work in progress)]]
+[[Storia (Work in progress)]]
