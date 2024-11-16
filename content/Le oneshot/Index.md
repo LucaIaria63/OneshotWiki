@@ -5,5 +5,6 @@ longform:
   sceneFolder: /
   scenes:
     - Oneshot Spore
+    - HFSDFDIO
   ignoredFiles: []
 ---
