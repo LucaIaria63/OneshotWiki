@@ -1,10 +1,9 @@
 ---
 longform:
   format: scenes
-  title: Le Oneshot
+  title: Oneshot Steampunk
   workflow: Default Workflow
   sceneFolder: /
   scenes: []
-  sceneTemplate: templates/Chapter.md
   ignoredFiles: []
 ---
