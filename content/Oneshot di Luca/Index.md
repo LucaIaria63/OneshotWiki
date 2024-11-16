@@ -5,7 +5,6 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes: []
-  sceneTemplate: templates/Scena.md
   ignoredFiles: []
 title: Indice Oneshot di Luca
 ---

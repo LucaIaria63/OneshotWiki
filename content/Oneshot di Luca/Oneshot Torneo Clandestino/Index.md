@@ -1,10 +1,10 @@
 ---
 longform:
   format: scenes
-  title: Oneshot Spore
+  title: Oneshot Torneo Clandestino
   workflow: Default Workflow
   sceneFolder: /
   scenes: []
   ignoredFiles: []
-title: Indice Oneshot Spore
+title: Indice Oneshot Torneo Clandestino
 ---
