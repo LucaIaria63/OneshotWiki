@@ -6,7 +6,7 @@ longform:
   sceneFolder: /
   scenes: []
   ignoredFiles: []
-title: Città
+title: Indice Città
 ---
 - [[Arora]]
 - [[Aviva]]
