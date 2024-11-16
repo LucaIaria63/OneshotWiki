@@ -4,7 +4,8 @@ longform:
   title: Oneshot Spore
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Introduzione
   ignoredFiles: []
 title: Indice Oneshot Spore
 ---
