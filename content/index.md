@@ -1,4 +1,4 @@
 ---
- title: Home
- sceneTemplate: templates/Scena.md
+title: Home
 ---
+Questa è la wiki
