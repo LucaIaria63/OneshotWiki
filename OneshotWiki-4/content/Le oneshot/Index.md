@@ -6,6 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - Oneshot Spore
+    - FIHOIFHDSHIDFSHISI
   sceneTemplate: templates/Chapter.md
   ignoredFiles: []
 ---
